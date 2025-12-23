@@ -899,6 +899,4 @@ print(layer_6_output.shape)  # (2, 7, 768)
 6. Sorties finales
    ┌──────────────────┬──────────────────┬──────────────────┐
    │ sequence_output  │  pooled_output   │ encoder_outputs  │
-   ├──────────────────#   p r o j e c t  
- #   p r o j e c t  
- 
+   ├──────────────────
